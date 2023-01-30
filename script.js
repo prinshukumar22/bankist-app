@@ -264,6 +264,9 @@ dotContainer.addEventListener('click',function(e){
 })
 
 }
+function addfeature(){
+  console.log('added new branch');
+}
 
 slider();
 // console.log('Hi');
